@@ -1,2 +1,2 @@
 # DataStatus
-My university courses
+My university courses design
